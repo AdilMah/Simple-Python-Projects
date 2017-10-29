@@ -1,3 +1,4 @@
+#The Rock-Paper-Scissor-Spock-Lizard Game
 # The key idea of this program is to equate the strings
 # "rock", "paper", "scissors", "lizard", "Spock" to numbers
 # as follows:
